@@ -132,12 +132,6 @@ python app.py
 - **部署**：本地开发环境（可扩展至 Docker 或云服务器）。  
 
 
-## 项目截图  
-| 页面       | 预览链接                             |  
-|------------|--------------------------------------|  
-| 登录页面   | `https://static/images/login_screenshot.png` |  
-| 主页面     | `https://static/images/main_screenshot.png`   |  
-
 
 ## 贡献指南  
 1. **Fork 仓库**：点击 GitHub 仓库右上角 `Fork`，复制到个人账号。  
